@@ -20,12 +20,4 @@
 
 
 
-![Footer](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-
-
-## 📫 Contact Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
 
