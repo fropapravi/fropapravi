@@ -1,6 +1,9 @@
-##👋 Hi, I'm Praveen Kumar B
+👋 Hi, I'm Praveen Kumar B
 
-
+👀 I’m interested in crunching data, creating insightful interactive dashboards, building models and helping folks grow in their career
+🌱 I’m currently lokking for data/business analyst opportunities
+🙏 I’m looking to collaborate on data science / data analytics project
+📫 How to reach me : LinkedIN profile: https://www.linkedin.com/in/praveen-k22
 <!--
 **fropapravi/fropapravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
