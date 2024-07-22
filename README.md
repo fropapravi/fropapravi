@@ -1,11 +1,12 @@
 # 👋 Hi, I'm [Your Name]
 
-I'm a passionate Data Analyst skilled in Excel, PostgreSQL, Python, and Power BI. I love transforming data into actionable insights to drive business decisions.
+I'm a passionate Data Analyst skilled in Excel, PostgreSQL, MySQL, Python, and Power BI. I love transforming data into actionable insights to drive business decisions.
 
 ## 🛠️ Skills & Tools
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,6 +16,8 @@ I'm a passionate Data Analyst skilled in Excel, PostgreSQL, Python, and Power BI
 
 ### Office Suite
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+![Word](https://via.placeholder.com/50x50.png?text=Word)
+![PowerPoint](https://via.placeholder.com/50x50.png?text=PowerPoint)
 
 ## 📊 Projects
 
@@ -35,6 +38,12 @@ I'm a passionate Data Analyst skilled in Excel, PostgreSQL, Python, and Power BI
 - **Description:** Managed and queried a customer database to provide business insights.
 - **Tools Used:** PostgreSQL
 - **Repository:** [GitHub Link](https://github.com/yourusername/customer-database)
+
+### MySQL Database Management
+- **Project:** Inventory Management System
+- **Description:** Developed and maintained an inventory management system using MySQL.
+- **Tools Used:** MySQL
+- **Repository:** [GitHub Link](https://github.com/yourusername/inventory-management)
 
 ## 📫 Contact Me
 
