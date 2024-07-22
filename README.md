@@ -1,22 +1,48 @@
-# 👋 Hi, I'm Praveen Kumar B
+# 👋 Hi, I'm [Your Name]
 
-- 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models and helping folks grow in their career
-- 🌱 I’m currently lokking for data/business analyst opportunities
-- 🙏 I’m looking to collaborate on data science / data analytics project
-- 📫 How to reach me : LinkedIN profile: https://www.linkedin.com/in/praveen-k22
+I'm a passionate Data Analyst skilled in Excel, PostgreSQL, Python, and Power BI. I love transforming data into actionable insights to drive business decisions.
 
-# Database https://github.com/tograh/testrepository/3DTest.png
-<!--
-**fropapravi/fropapravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Tools
 
-Here are some ideas to get you started:
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+
+### Office Suite
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+
+## 📊 Projects
+
+### Data Analysis with Python
+- **Project:** Sales Data Analysis
+- **Description:** Analyzed sales data using Python to identify trends and patterns.
+- **Tools Used:** Pandas, Matplotlib, Seaborn
+- **Repository:** [GitHub Link](https://github.com/yourusername/sales-data-analysis)
+
+### Dashboard in Power BI
+- **Project:** Financial Dashboard
+- **Description:** Created an interactive dashboard to visualize financial performance.
+- **Tools Used:** Power BI
+- **Repository:** [GitHub Link](https://github.com/yourusername/financial-dashboard)
+
+### PostgreSQL Database Management
+- **Project:** Customer Database
+- **Description:** Managed and queried a customer database to provide business insights.
+- **Tools Used:** PostgreSQL
+- **Repository:** [GitHub Link](https://github.com/yourusername/customer-database)
+
+## 📫 Contact Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+---
+
+![Footer](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
